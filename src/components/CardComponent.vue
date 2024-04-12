@@ -1,10 +1,11 @@
 <template>
-   CardComponent
+   <p>CardComponent</p>
 </template>
 
 <script>
     export default {
-        name:'CardComponent'
+        name:'CardComponent',
+        
     }
 </script>
 
