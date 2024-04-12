@@ -1,6 +1,7 @@
 <template>
     <div>
-        <h1>ciao sono l'Header</h1>   
+        <h1>ciao sono l'Header</h1> 
+          
     </div>
 </template>
 
