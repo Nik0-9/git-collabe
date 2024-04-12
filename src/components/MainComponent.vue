@@ -1,12 +1,17 @@
 <template>
-    <div>
         <h1>ciao sono il main</h1>
-    </div>
+        <CardComponent />
+    
 </template>
 
 <script>
+import CardComponent from './CardComponent.vue';
+
     export default {
-        name:'MainComponent'
+        name:'MainComponent',
+        components:{
+            CardComponent
+        }
     }
 </script>
 
